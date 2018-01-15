@@ -1,0 +1,2 @@
+# CS3413-BarberShop
+A multithreaded c program that solves a barber shop problem.  The barber has a set number of chairs, and can service one client at a time.  When not busy, the barber is sleeping.  If a client arrives and the barber is sleeping, they must wake them up.  If a client arrives and the barber is busy, the client waits in a queue.  If a client arrives and the queue is full, the client leaves.  The barber takes a random amount of time to cut a clients hair.
